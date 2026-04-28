@@ -83,6 +83,33 @@ category = "dev"
 name = "The New Stack"
 feed_url = "https://thenewstack.io/feed/"
 
+# Added 2026-04-28 to bias development coverage toward backend engineering craft:
+# distributed systems, reliability, observability, databases, APIs, and production operations.
+[[sources]]
+category = "dev"
+name = "Discord Engineering"
+feed_url = "https://discord.com/blog/rss.xml"
+
+[[sources]]
+category = "dev"
+name = "Slack Engineering"
+feed_url = "https://slack.engineering/feed/"
+
+[[sources]]
+category = "dev"
+name = "Meta Engineering"
+feed_url = "https://engineering.fb.com/feed/"
+
+[[sources]]
+category = "dev"
+name = "Datadog Engineering"
+feed_url = "https://www.datadoghq.com/blog/engineering/index.xml"
+
+[[sources]]
+category = "dev"
+name = "PlanetScale Blog"
+feed_url = "https://planetscale.com/blog/rss.xml"
+
 [[sources]]
 category = "econ"
 name = "FRED Blog"
